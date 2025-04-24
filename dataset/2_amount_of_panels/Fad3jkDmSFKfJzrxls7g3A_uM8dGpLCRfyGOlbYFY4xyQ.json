@@ -1,0 +1,43 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "completed",
+  "projectId": "Fad3jkDmSFKfJzrxls7g3A",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewBitumenRoofCompleted",
+    "parent_task_id": "6gcGmuRcQVuG_CXpGT2Tdw",
+    "best_practice_image": "best_practice_images/images-dc-overall_view_modules_bitumen_1.jpeg",
+    "question_type": "photo",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "added_by_task_response": "bitumen_pitched_roof",
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "repeated_by_task_id": "Kkno89gdSM2SRnw6GtlilA",
+    "allow_multiple_responses": true,
+    "options": null,
+    "responses": [
+      {
+        "responses": [],
+        "actor": "8OK6tcmaSmS5AYtvPwGcMQ",
+        "project": "Fad3jkDmSFKfJzrxls7g3A",
+        "repetition": {
+          "bitumen_pitched_roof": 1
+        },
+        "attachments": [
+          {
+            "url": "images/Fad3jkDmSFKfJzrxls7g3A_DcShortEnphaseTiltedRoofOverallViewBitumenRoofCompleted_uM8dGpLCRfyGOlbYFY4xyQ_0.jpg",
+            "number_of_modules": "10"
+          }
+        ],
+        "id": "uM8dGpLCRfyGOlbYFY4xyQ"
+      }
+    ],
+    "added_by_task_id": "8YhBFaRIQlmhGSWR2aBrAQ",
+    "id": "uM8dGpLCRfyGOlbYFY4xyQ",
+    "image_tag": null,
+    "position": 0,
+    "worst_practice_image": null,
+    "task_type": "question"
+  }
+}

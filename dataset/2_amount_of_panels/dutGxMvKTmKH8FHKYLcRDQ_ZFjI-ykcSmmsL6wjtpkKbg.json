@@ -1,0 +1,58 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "completed",
+  "projectId": "dutGxMvKTmKH8FHKYLcRDQ",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted",
+    "parent_task_id": "l_HSI9nWS2ueeCke3kL0Kw",
+    "best_practice_image": null,
+    "question_type": "photo",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "added_by_task_response": "brick_roof",
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "repeated_by_task_id": "yJSehPnERqybVm5-icAeZw",
+    "allow_multiple_responses": true,
+    "options": null,
+    "responses": [
+      {
+        "responses": [],
+        "actor": "b4cqQCZyT0-CPAd0-9Q__A",
+        "project": "dutGxMvKTmKH8FHKYLcRDQ",
+        "repetition": {
+          "brick_roof": 1
+        },
+        "attachments": [
+          {
+            "url": "images/dutGxMvKTmKH8FHKYLcRDQ_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_ZFjI-ykcSmmsL6wjtpkKbg_0.jpg",
+            "number_of_modules": "8 (roof only partially visible)"
+          }
+        ],
+        "id": "ZFjI-ykcSmmsL6wjtpkKbg"
+      },
+      {
+        "responses": [],
+        "actor": "b4cqQCZyT0-CPAd0-9Q__A",
+        "project": "dutGxMvKTmKH8FHKYLcRDQ",
+        "repetition": {
+          "brick_roof": 2
+        },
+        "attachments": [
+          {
+            "url": "images/dutGxMvKTmKH8FHKYLcRDQ_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_ZFjI-ykcSmmsL6wjtpkKbg_0.jpg",
+            "number_of_modules": "6 (roof only partially visible)"
+          }
+        ],
+        "id": "ZFjI-ykcSmmsL6wjtpkKbg"
+      }
+    ],
+    "added_by_task_id": "Nf2nBj_lRmGb6Yn7ecBe-Q",
+    "id": "ZFjI-ykcSmmsL6wjtpkKbg",
+    "image_tag": null,
+    "position": 0,
+    "worst_practice_image": null,
+    "task_type": "question"
+  }
+}

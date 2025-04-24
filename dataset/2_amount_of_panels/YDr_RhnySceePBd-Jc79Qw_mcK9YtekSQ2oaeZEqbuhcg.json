@@ -1,0 +1,106 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "not_started",
+  "projectId": "YDr_RhnySceePBd-Jc79Qw",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted",
+    "parent_task_id": "cz0mL9VERtGQpfBjJcPPvA",
+    "best_practice_image": "best_practice_images/images-dc-overall_view_modules_brick_1.jpg",
+    "question_type": "photo",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "added_by_task_response": "brick_roof",
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "repeated_by_task_id": "uhw6X_neQDKwjbI8OdyEbQ",
+    "allow_multiple_responses": true,
+    "options": null,
+    "added_by_task_id": "6C2fn-BTQg2D-YKBsTCw5w",
+    "id": "mcK9YtekSQ2oaeZEqbuhcg",
+    "image_tag": null,
+    "position": 0,
+    "worst_practice_image": "worst_practice_images/overall_view_modules_brick_2.jpg",
+    "task_type": "question",
+    "responses": [
+      {
+        "responses": [],
+        "actor": "5F8t1cAzTBO9RAAm4dLxlg",
+        "attachments": [
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_0.jpg",
+            "number_of_modules": "2"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_1.jpg",
+            "number_of_modules": "9 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_3.jpg",
+            "number_of_modules": "9 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_4.jpg",
+            "number_of_modules": "9 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_5.jpg",
+            "number_of_modules": "10 (roof only partially visible)"
+          }
+        ],
+        "project": "YDr_RhnySceePBd-Jc79Qw",
+        "id": "mcK9YtekSQ2oaeZEqbuhcg",
+        "repetition": {
+          "brick_roof": 1
+        }
+      },
+      {
+        "responses": [],
+        "actor": "5F8t1cAzTBO9RAAm4dLxlg",
+        "attachments": [
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_0.jpg",
+            "number_of_modules": "not applicable"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_1.jpg",
+            "number_of_modules": "5 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_2.jpg",
+            "number_of_modules": "4 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_3.jpg",
+            "number_of_modules": "2 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_4.jpg",
+            "number_of_modules": "2 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_5.jpg",
+            "number_of_modules": "3 (roof only partially visible)"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_6.png",
+            "number_of_modules": "not applicable"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_7.png",
+            "number_of_modules": "not applicable"
+          },
+          {
+            "url": "images/YDr_RhnySceePBd-Jc79Qw_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_mcK9YtekSQ2oaeZEqbuhcg_8.png",
+            "number_of_modules": "not applicable"
+          }
+        ],
+        "project": "YDr_RhnySceePBd-Jc79Qw",
+        "id": "mcK9YtekSQ2oaeZEqbuhcg",
+        "repetition": {
+          "brick_roof": 2
+        }
+      }
+    ]
+  }
+}

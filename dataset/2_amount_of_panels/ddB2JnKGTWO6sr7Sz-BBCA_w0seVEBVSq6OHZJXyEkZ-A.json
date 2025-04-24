@@ -1,0 +1,62 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "completed",
+  "projectId": "ddB2JnKGTWO6sr7Sz-BBCA",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewFlatRoofCompleted",
+    "parent_task_id": "HR2jtV9gROObq7_2EIqr0Q",
+    "best_practice_image": "best_practice_images/images-dc-overall_view_modules_flat_1.jpg",
+    "question_type": "photo",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "added_by_task_response": "flat_roof",
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "validation_regex": null,
+    "repeated_by_task_id": "pRuTnP-uTEGexjBRvLegPw",
+    "allow_multiple_responses": true,
+    "options": null,
+    "added_by_task_id": "vmNofBl6QPqT2LwtrUZ1gA",
+    "barcode_scanner": false,
+    "id": "w0seVEBVSq6OHZJXyEkZ-A",
+    "image_tag": "installation_manager",
+    "position": 0,
+    "worst_practice_image": "worst_practice_images/overall_view_modules_flat_2.jpg",
+    "task_type": "question",
+    "validation": null,
+    "responses": [
+      {
+        "responses": [],
+        "actor": "aUdErWwLREiWrR82rv1mzg",
+        "attachments": [
+          {
+            "url": "images/ddB2JnKGTWO6sr7Sz-BBCA_DcShortEnphaseTiltedRoofOverallViewFlatRoofCompleted_w0seVEBVSq6OHZJXyEkZ-A_1.jpg",
+            "number_of_modules": "9 (roof only partially visible)"
+          },
+          {
+            "url": "images/ddB2JnKGTWO6sr7Sz-BBCA_DcShortEnphaseTiltedRoofOverallViewFlatRoofCompleted_w0seVEBVSq6OHZJXyEkZ-A_2.jpg",
+            "number_of_modules": "11 (roof only partially visible)"
+          },
+          {
+            "url": "images/ddB2JnKGTWO6sr7Sz-BBCA_DcShortEnphaseTiltedRoofOverallViewFlatRoofCompleted_w0seVEBVSq6OHZJXyEkZ-A_3.jpg",
+            "number_of_modules": "13 (roof only partially visible)"
+          },
+          {
+            "url": "images/ddB2JnKGTWO6sr7Sz-BBCA_DcShortEnphaseTiltedRoofOverallViewFlatRoofCompleted_w0seVEBVSq6OHZJXyEkZ-A_4.jpg",
+            "number_of_modules": "11 (roof only partially visible)"
+          },
+          {
+            "url": "images/ddB2JnKGTWO6sr7Sz-BBCA_DcShortEnphaseTiltedRoofOverallViewFlatRoofCompleted_w0seVEBVSq6OHZJXyEkZ-A_5.jpg",
+            "number_of_modules": "9 (roof only partially visible)"
+          }
+        ],
+        "project": "ddB2JnKGTWO6sr7Sz-BBCA",
+        "id": "w0seVEBVSq6OHZJXyEkZ-A",
+        "repetition": {
+          "flat_roof": 1
+        }
+      }
+    ]
+  }
+}

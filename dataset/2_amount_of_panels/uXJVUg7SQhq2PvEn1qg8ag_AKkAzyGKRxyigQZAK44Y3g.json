@@ -1,0 +1,43 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "completed",
+  "projectId": "uXJVUg7SQhq2PvEn1qg8ag",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewSeamRoofCompleted",
+    "parent_task_id": "zJSbysIATbGH9Y54Mka79A",
+    "best_practice_image": "best_practice_images/images-dc-overall_view_modules_seam_1.jpeg",
+    "question_type": "photo",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "added_by_task_response": "seam_tin_roof",
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "repeated_by_task_id": "MVkd7p5mRWqbgmzxvxfCTg",
+    "allow_multiple_responses": true,
+    "options": null,
+    "added_by_task_id": "_6EoHGjAQ2u-VQadKRVRMQ",
+    "id": "AKkAzyGKRxyigQZAK44Y3g",
+    "image_tag": null,
+    "position": 0,
+    "worst_practice_image": null,
+    "task_type": "question",
+    "responses": [
+      {
+        "responses": [],
+        "actor": "k82mmxdwS36z2nqfXDs5Vg",
+        "attachments": [
+          {
+            "url": "images/uXJVUg7SQhq2PvEn1qg8ag_DcShortEnphaseTiltedRoofOverallViewSeamRoofCompleted_AKkAzyGKRxyigQZAK44Y3g_0.jpg",
+            "number_of_modules": "6"
+          }
+        ],
+        "project": "uXJVUg7SQhq2PvEn1qg8ag",
+        "id": "AKkAzyGKRxyigQZAK44Y3g",
+        "repetition": {
+          "seam_tin_roof": 1
+        }
+      }
+    ]
+  }
+}

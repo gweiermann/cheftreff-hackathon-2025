@@ -1,0 +1,51 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "not_started",
+  "projectId": "B6qAbfDORg22jAN7-Lnc8Q",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted",
+    "parent_task_id": "4W5eQeIrQuKdj-1NwP9D0A",
+    "best_practice_image": "best_practice_images/images-dc-overall_view_modules_brick_1.jpg",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "question_type": "photo",
+    "added_by_task_response": "brick_roof",
+    "repetition": {},
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "repeated_by_task_id": "vxIo0ML4QMykkEoMLBY1kw",
+    "allow_multiple_responses": true,
+    "options": null,
+    "added_by_task_id": "vjQyRt_ETBmkj45MLbXmaA",
+    "id": "hRxFMBJuQ9eYkTpeB6bu8w",
+    "position": 0,
+    "worst_practice_image": "worst_practice_images/overall_view_modules_brick_2.jpg",
+    "task_type": "question",
+    "responses": [
+      {
+        "responses": [],
+        "actor": "P8FS_i2VQOWsQZ0A6zRpgw",
+        "attachments": [
+          {
+            "url": "images/B6qAbfDORg22jAN7-Lnc8Q_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_hRxFMBJuQ9eYkTpeB6bu8w_0.jpg",
+            "number_of_modules": "44"
+          },
+          {
+            "url": "images/B6qAbfDORg22jAN7-Lnc8Q_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_hRxFMBJuQ9eYkTpeB6bu8w_1.jpg",
+            "number_of_modules": "37 (roof only partially visible)"
+          },
+          {
+            "url": "images/B6qAbfDORg22jAN7-Lnc8Q_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_hRxFMBJuQ9eYkTpeB6bu8w_2.jpg",
+            "number_of_modules": "40 (roof only partially visible)"
+          }
+        ],
+        "project": "B6qAbfDORg22jAN7-Lnc8Q",
+        "id": "hRxFMBJuQ9eYkTpeB6bu8w",
+        "repetition": {
+          "brick_roof": 1
+        }
+      }
+    ]
+  }
+}

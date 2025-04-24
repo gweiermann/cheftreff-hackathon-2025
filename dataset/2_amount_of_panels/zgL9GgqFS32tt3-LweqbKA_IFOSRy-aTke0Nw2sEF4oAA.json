@@ -1,0 +1,43 @@
+{
+  "scheduleService": "roof_assembly",
+  "installationStatus": "completed",
+  "projectId": "zgL9GgqFS32tt3-LweqbKA",
+  "data": {
+    "completed_by_event": "DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted",
+    "parent_task_id": "Zv990sRnTpmeaKTLgFUO9Q",
+    "best_practice_image": "best_practice_images/images-dc-overall_view_modules_brick_1.jpg",
+    "question_type": "photo",
+    "instruction_text": "%{i}. ROOF SIDE:\n1) All modules on the %{i}. Roof side must be visible\n2) Align modules to existing alignments (roof ridge, verge, ...)\n3) Maintain distance between modules and:\n\n  - Neighboring house according to country-specific building regulations\n  - Align interfering surfaces and verge symmetrically\n  - At least 1 cm between the modules for thermal expansion\n  - Eaves at least 15 cm, verge at least 3 cm and flush with the ridge\n  - Solar system and the lightning protection system depending on the lightning protection class\n\n4) When integrating the system into the lightning protection system: lay out equipotential bonding with 16 mm and install combined conductors 1 and 2 - >approval by lightning protection experts\n5) Use clean gloves during transportation and installation to avoid soiling\n",
+    "added_by_task_response": "brick_roof",
+    "title": "General view of modules roof side %{i}",
+    "required": true,
+    "activated_by_task_id": null,
+    "question_text": "General view of modules %{i}. Roof side",
+    "repeated_by_task_id": "0M1ftRD2TBaVMJopOM09eQ",
+    "allow_multiple_responses": true,
+    "options": null,
+    "responses": [
+      {
+        "responses": [],
+        "actor": "hp_l16v8RNWQYrHOy_WJjg",
+        "project": "zgL9GgqFS32tt3-LweqbKA",
+        "repetition": {
+          "brick_roof": 1
+        },
+        "attachments": [
+          {
+            "url": "images/zgL9GgqFS32tt3-LweqbKA_DcShortEnphaseTiltedRoofOverallViewBrickRoofCompleted_IFOSRy-aTke0Nw2sEF4oAA_0.jpg",
+            "number_of_modules": "not applicable"
+          }
+        ],
+        "id": "IFOSRy-aTke0Nw2sEF4oAA"
+      }
+    ],
+    "added_by_task_id": "cwae-Ve-S-CuuSfOUTvFsQ",
+    "id": "IFOSRy-aTke0Nw2sEF4oAA",
+    "image_tag": null,
+    "position": 0,
+    "worst_practice_image": "worst_practice_images/overall_view_modules_brick_2.jpg",
+    "task_type": "question"
+  }
+}
