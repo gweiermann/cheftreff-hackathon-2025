@@ -1,7 +1,7 @@
 import os
 import json
 
-def load_dataset(path):
+def load_dataset(path, *, debug=False):
     partial_message = " (roof only partially visible)"
     result = []
     for root, dirs, files in os.walk(os.path.join(os.getcwd(), path, '2_amount_of_panels')):
@@ -14,7 +14,8 @@ def load_dataset(path):
                         for index, attachment in enumerate(response['attachments']):
                             raw_number = attachment['number_of_modules']
                             if raw_number == 'not applicable':
-                                print(f"[WARN] Skipping attachment {index} of file {file} because number_of_modules is 'not applicable'")
+                                if debug:
+                                    print(f"[WARN] Skipping attachment {index} of file {file} because number_of_modules is 'not applicable'")
                                 continue
                             is_partial = raw_number.endswith(partial_message)
                             number = int(raw_number, 10) if not is_partial else int(raw_number[:-len(partial_message)], 10)
@@ -23,7 +24,7 @@ def load_dataset(path):
                                 'imageIndex': index,
                                 'numberOfModules': number,
                                 'isPartial': is_partial,
-                                'imagePath': os.path.join(os.getcwd(), path, 'dataset', file),
+                                'imagePath': os.path.join(os.getcwd(), path, 'dataset', attachment['url']),
                             })
     return result
     
