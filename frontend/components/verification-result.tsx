@@ -66,7 +66,7 @@ export default function VerificationResult({
     return (
       <div className="flex flex-col min-h-full">
         <header className="p-4 border-b">
-          <h1 className="text-lg font-semibold">Finishing up: Step 2/3</h1>
+          <h1 className="text-lg font-semibold">Finishing up: Step 2/2</h1>
           <p className="text-sm text-gray-500">Verifying your work</p>
         </header>
 
@@ -83,7 +83,7 @@ export default function VerificationResult({
     return (
       <div className="flex flex-col min-h-full">
         <header className="p-4 border-b">
-          <h1 className="text-lg font-semibold">Finishing up: Step 2/3</h1>
+          <h1 className="text-lg font-semibold">Finishing up: Step 2/2</h1>
           <p className="text-sm text-gray-500">Verifying your work</p>
         </header>
 
@@ -99,7 +99,7 @@ export default function VerificationResult({
   return (
     <div className="flex flex-col min-h-full">
       <header className="p-4 border-b">
-        <h1 className="text-lg font-semibold">Finishing up: Step 3/3</h1>
+        <h1 className="text-lg font-semibold">Finishing up: Step 2/2</h1>
         <p className="text-sm text-gray-500">Verification results</p>
       </header>
 
