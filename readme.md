@@ -1,3 +1,8 @@
+# About the event
+The hackathon took place in Hamburg and was hosted by [Chef Treff](https://chef-treff.de/) in April '25.
+There were seven companies each providing a challenge that were evenly distributed to all participating teams.
+Each team consisting of 3-5 members had 24h to complete their challenge. Each company also provided a contact person.
+
 # About the challenge
 Our challenger 1komma5 wants to verify the work of their third party contractors that are installing photovoltaic panels at their customers. For that their contractors need to upload photos of the construction site.
 We were challenged to use ai or computer vision to count each photovoltaic panel that can be seen on the given photo.
